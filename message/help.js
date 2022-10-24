@@ -17,7 +17,7 @@ function toCommas(x) {
 exports.allMenu = (ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isOwner, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
     return`  ${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
- Hitung Mundur Idul Adha
+ 
  ${mundur}
 
  *STATISTICS*
@@ -277,7 +277,7 @@ exports.donate = (pushname, ownerNumber) => {
 
 Hai ${pushname}👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 081575886399 (Dana/GoPay)
+🏧 00102810046 (digi)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
